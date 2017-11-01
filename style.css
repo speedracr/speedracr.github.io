@@ -1,0 +1,55 @@
+/* CSS for Google Notebook page */
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+
+body {
+	font-family:	'PT Sans', Helvetica, Arial, sans-serif;
+	color:			#242424;
+	}
+
+#text {
+	width:			550px;
+	margin-top:		50px; 
+	margin-left: 	50px;
+	margin-right:	auto;
+	font-size:		150%;
+}
+	
+#spk {
+	width:			750px;
+	margin-left:	auto;
+	margin-right:	auto;
+}
+
+.italic {
+	font-style:		italic;
+}
+
+.name {
+	font-weight:	bold;
+	}
+
+.mini {
+	font-size:		60%;
+}
+
+.eighty {
+	font-size:		80%;
+}
+
+a:link {
+  color: 			#333;
+  font-weight:		bold;
+  text-decoration:	none;	
+  }
+
+a:visited {
+  color: 			#333;
+  font-weight:		bold;
+  text-decoration:	none;	
+  }
+
+a:hover {
+  color: 			#006699;
+  text-decoration:	underline;
+  }
